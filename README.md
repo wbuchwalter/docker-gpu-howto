@@ -21,3 +21,6 @@
 ## 5.1 Uploading logs and checkpoint files to azure blob storage
 ## 5.2 Multi-Hyopthesis parallel training
 ## 5.3 Daily scheduled retraining on new data
+
+# 6. Next
+## 6.1 Autoscaler for GPU VM
